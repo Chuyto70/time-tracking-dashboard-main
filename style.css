@@ -81,7 +81,7 @@ main {
     color: var(--pale-blue);
 }
 
-.perfil-data__name p {
+.perfil-data__name h1 {
     font-size: 28px;
     line-height: 32px;
     font-weight: 300;
